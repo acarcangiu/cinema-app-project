@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Home</string>
+    <string-array name="cinemaList">
+        <item>Please select</item>
+        <item>cinema1</item>
+        <item>cinema2</item>
+        <item>cinema3</item>
+    </string-array>
+
+    <string-array name="filmsSpinnerList">
+        <item>Please select</item>
+        <item>film1</item>
+        <item>film2</item>
+        <item>film3</item>
+    </string-array>
+    <string name="title_activity_login">LoginActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="forgot_password"><a href="http;//www.Google.com">Forgot your Password?</a></string>
+    <string name="registration"><a href="http;//www.Google.com">Register new Account</a></string>
+    <string-array name="Year">
+        <item>2021</item>
+        <item>2022</item>
+        <item>2023</item>
+        <item>2024</item>
+        <item>2025</item>
+        <item>2026</item>
+        <item>2027</item>
+    </string-array>
+    <string-array name="Month">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+</resources>
