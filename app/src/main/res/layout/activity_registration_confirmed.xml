@@ -41,7 +41,7 @@
         android:id="@+id/MainButton"
         android:layout_width="394dp"
         android:layout_height="96dp"
-        android:text="Start browsing!"
+        android:text="Login and Start browsing!"
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

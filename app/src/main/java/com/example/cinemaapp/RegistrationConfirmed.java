@@ -24,7 +24,7 @@ public class RegistrationConfirmed extends AppCompatActivity {
         });
     }
     public void OpenMainActivity() {
-        Intent intent = new Intent(this, MainActivity.class);
+        Intent intent = new Intent(this, LoginActivity.class);
         startActivity(intent);
     }
 }
